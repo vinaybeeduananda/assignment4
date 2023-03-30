@@ -1,0 +1,3 @@
+const states = ['AndhraPradesh', 'ArunachalPradesh', 'Assam', 'Bihar', 'Chhattisgarh', 'Goa', 'Gujarat', 'Haryana', 'HimachalPradesh', 'Jammu and Kashmir', 'Jharkhand', 'Karnataka', 'Kerala', 'MadhyaPradesh', 'Maharashtra', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Odisha', 'Punjab', 'Rajasthan', 'Sikkim', 'TamilNadu', 'Telangana', 'Tripura', 'UttarPradesh', 'WestBengal']
+
+module.exports = states;
